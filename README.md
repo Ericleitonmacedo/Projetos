@@ -4,7 +4,7 @@
 ### Projeto em JAVA feito pelo grupo:
 
 #### Yuri Christian Carvalho Costa
-#### Ericleito Gomes de Macedo
+#### Ericleiton Gomes de Macedo
 #### Veihmeyer de Alencar Toscano Moura
 
 ### Projeto em Python feito pelo grupo:
